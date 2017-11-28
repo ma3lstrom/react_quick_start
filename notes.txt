@@ -1,0 +1,14 @@
+React Notes:
+
+Quick Start:
+
+Components and props
+* Components: they're like functions. They accept parameters (props) and return
+              a react element. A react element can be an HTML div, button, etc.
+              Components are meant to be reusable and are declared with an
+              uppercase letter.
+* Props: values passed as parameters inside components. They're read only and
+         pure, thus can't be changed inside a function.
+
+State and lifecycle
+* State:
